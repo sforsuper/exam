@@ -1,6 +1,6 @@
+#pragma once
 #include "AnimatedObject.hpp"
 #include "SFML/Graphics.hpp"
-#pragma once
 class Text : public AnimatedObject{
 private:
     std::string m_string;
